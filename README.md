@@ -6,12 +6,12 @@
 Overview
 ---
 
-This project contains code to detect and mark lane lines from images of a front camera of a car.
-The code is contained in the jupyter notebook P1.ipynb and be viewed other the browser by opening the jupyter notebook
+This project contains code to detect and mark lanes from images from a front camera of a car.
+The code is contained in the jupyter notebook P1.ipynb file and can be viewed over the browser by opening the jupyter notebook
 
-'jupyter notebook'
+`jupyter notebook`
 
 and selecting the P1 project in it.
 
-Also the output of the algorithm is stored in the "test_images" folder along with the input pictures.
-And the output video files can be seen in the "test_videos_output" folder.
+Also the output of the algorithm is stored in the *test_images* folder along with the input pictures.
+And the output video files can be seen in the *test_videos_output* folder.
